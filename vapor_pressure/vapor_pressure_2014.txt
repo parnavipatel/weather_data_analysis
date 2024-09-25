@@ -1,0 +1,2 @@
+Jahr;Jan;Feb;Mrz;Apr;Mai;Jun;Jul;Aug;Sep;Okt;Nov;Dez
+2014;28.0;28.0;29.3;30.9;32.2;32.0;31.9;31.4;31.0;31.7;31.4;30.2
