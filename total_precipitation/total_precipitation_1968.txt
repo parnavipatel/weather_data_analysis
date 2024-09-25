@@ -1,0 +1,2 @@
+Jahr;Jan;Feb;Mrz;Apr;Mai;Jun;Jul;Aug;Sep;Okt;Nov;Dez
+1968;49.0;29.0;40.0;23.0;21.0;40.0;34.0;43.0;98.0;51.0;66.0;56.0

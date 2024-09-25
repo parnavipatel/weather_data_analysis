@@ -1,0 +1,2 @@
+Jahr;Jan;Feb;Mrz;Apr;Mai;Jun;Jul;Aug;Sep;Okt;Nov;Dez
+2017;67.0;32.0;27.0;29.0;9.0;14.0;25.0;56.0;74.0;106.0;67.0;34.0
