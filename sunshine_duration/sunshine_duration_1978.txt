@@ -1,0 +1,2 @@
+Jahr;Jan;Feb;Mrz;Apr;Mai;Jun;Jul;Aug;Sep;Okt;Nov;Dez
+1978;;;257.0;;;;;170.0;;;209.0;245.0
